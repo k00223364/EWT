@@ -1,0 +1,176 @@
+div#container {
+
+margin: auto;
+max-width: 1500px;
+
+
+}
+
+
+h1 {
+    padding-top: 10px;
+   margin-top: auto;
+}
+
+header {
+    background-image: url(../img/flower-background-1.jpg);
+    background-repeat: no-repeat;
+    background-position: right;
+    margin-bottom: 0;
+    
+      
+}
+
+
+body {
+    
+    
+}
+
+
+
+div#test {
+    display: inline-block;
+    font-family: "Oxford";
+    font-size: 1.5em;
+    line-height: 30px;
+    margin-bottom: 40px;
+    float: left;
+    margin-top: 40px;
+}
+
+#personal {
+    float: left;
+}
+
+#cage {
+    float: left;
+}
+
+#exterior {
+    float: left;
+    margin-top: 40px;
+    
+}
+
+#interior {
+    float: left;
+    margin-top: 40px;
+}
+
+#fruit {
+    float: left;
+    margin-top: 40px;
+}
+
+#christmas {
+    float: left;
+    margin-top: 40px;
+}
+ #hc {
+    float: left;
+    margin-top: 40px;
+}
+
+#fyp {
+    float: left;
+    margin-top: 40px;
+}
+
+#fyp1 {
+    float: left;
+    margin-top: 40px;
+}
+
+
+h2 {
+    
+    font-family: "Oxford";
+    font-size: 2em;
+}
+
+h3{
+    font-family: "Oxford";
+    font-size: 1.5em;
+    float: left;
+}
+
+h4 {
+    
+    float: left;
+    margin-bottom: 80px;
+    margin-top: 40px;
+}
+
+
+ul.navlist {
+
+    background-image: url(../img/green.png);
+    background-position: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-family: "Oxford";
+    font-size: 1.5em;
+    border-style: solid;
+    border-width: thin;
+    color: antiquewhite;
+    margin-bottom: 0;
+}
+
+ul.navlist li{
+padding: 0;
+margin: 0;
+list-style-type: none;
+display: inline;
+margin: 30px 30px 30px;
+text-align: justify;
+color: white;
+padding-left: 80px;
+padding-right: 80px;
+    margin-bottom: 0px;
+    
+
+}
+
+aside {
+    
+    padding-top: 40px;
+    padding-left: 40px;
+    padding-left: 40px;
+    margin-left: 750px;
+}
+
+
+a:link, a:visited {
+    
+    color: antiquewhite;
+    text-decoration: none;
+}
+
+div#welcome {
+    
+    text-align: center;
+    font-family: "Oxford";
+    font-size: 2em;
+}
+
+div#welcome {
+    
+    width: 1000px;
+    margin-left: 250px;
+    background-color: floralwhite;
+    height: 100%;
+    line-height: 100px;
+}
+
+
+h2 {
+    
+    text-align: left;
+}
+
+.footer {
+    
+    clear: both;
+    
+}
