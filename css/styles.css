@@ -97,8 +97,7 @@ h3{
 
 h4 {
     
-    float: left;
-    margin-bottom: 80px;
+    clear: both;
     margin-top: 40px;
 }
 
@@ -143,7 +142,7 @@ aside {
 
 a:link, a:visited {
     
-    color: antiquewhite;
+    color: darkblue;
     text-decoration: none;
 }
 
@@ -151,11 +150,7 @@ div#welcome {
     
     text-align: center;
     font-family: "Oxford";
-    font-size: 2em;
-}
-
-div#welcome {
-    
+    font-size: 1.5em;
     width: 1000px;
     margin-left: 250px;
     background-color: floralwhite;
@@ -164,9 +159,16 @@ div#welcome {
 }
 
 
+
 h2 {
     
     text-align: left;
+}
+
+h5 {
+    clear: both;
+    
+    font-family: "Oxford";
 }
 
 .footer {
